@@ -16,6 +16,6 @@ This dataset is ideal for:
 
 Due to size limits, the ASL dataset is not stored directly in this repository.
 
-📦 Download it here: [Kaggle Link]([(https://www.kaggle.com/datasets/tuanai/american-sign-language-dataset/data)])
+📦 Download it here: [Kaggle Link](https://www.kaggle.com/datasets/tuanai/american-sign-language-dataset/data)
 
-Once downloaded, unzip it and place the contents inside the `data/` folder:
+Once downloaded, unzip it and place the contents inside your `data/` folder:
