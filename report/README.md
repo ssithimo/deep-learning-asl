@@ -10,4 +10,4 @@ The report includes:
 - Results
 - Final conclusions and recommendations
 
-📄 View the report: [Deep Learning ASL Report.pdf](report/deep-learning-asl-report.pdf)
+📄 View the report: [Deep Learning ASL Report.pdf](https://github.com/ssithimo/deep-learning-asl/blob/main/report/deep-learning-asl-report.pdf)
