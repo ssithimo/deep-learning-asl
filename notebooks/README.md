@@ -4,6 +4,7 @@ This folder contains a single Jupyter notebook that consolidates the entire work
 
 This project applies transfer learning using InceptionV3, VGG16, and ResNet50 to classify American Sign Language (ASL) hand signs for both English alphabet (A–Z) and numeric digits (0–9). The model is trained on a custom dataset of 2,515 RGB images, with ~70 images per class.
 
+*note: if the notebook doesn't open in github, it can be viewed here [nbviewer](https://nbviewer.org/github/ssithimo/deep-learning-asl/blob/main/notebooks/deep-learning-asl.ipynb)
 ## Contents
 
 - `deep-learning-asl.ipynb`:  
