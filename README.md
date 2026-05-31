@@ -117,4 +117,5 @@ VGG16 was selected as the final model based on four criteria:
 
 ---
 
-## 📁 File Structure
+## 🔧 Tools
+Python, TensorFlow, Keras, VGG16, InceptionV3, ResNet50, Transfer Learning, ImageDataGenerator, Adam Optimizer, Early Stopping, Pandas, NumPy, Matplotlib
